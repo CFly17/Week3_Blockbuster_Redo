@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\bin\Debug\netcoreapp3.1\Week3_BlockbusterLab.exe
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\bin\Debug\netcoreapp3.1\Week3_BlockbusterLab.deps.json
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\bin\Debug\netcoreapp3.1\Week3_BlockbusterLab.runtimeconfig.json
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\bin\Debug\netcoreapp3.1\Week3_BlockbusterLab.runtimeconfig.dev.json
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\bin\Debug\netcoreapp3.1\Week3_BlockbusterLab.dll
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\bin\Debug\netcoreapp3.1\Week3_BlockbusterLab.pdb
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.AssemblyInfo.cs
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.dll
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.pdb
+C:\Users\CFlynn3\Source\Repos\Week3_BlockbusterLab\Week3_BlockbusterLab\obj\Debug\netcoreapp3.1\Week3_BlockbusterLab.genruntimeconfig.cache
